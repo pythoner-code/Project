@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1400 529" style="enable-background:new 0 0 1400 529;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.4;fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);fill-opacity:0.7;enable-background:new    ;}
+	.st1{opacity:0.4;fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_2_);fill-opacity:0.7;enable-background:new    ;}
+</style>
+<title>Combined Shape</title>
+<desc>Created with Sketch.</desc>
+<g id="Mask">
+</g>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1213.5" y1="16" x2="1213.5" y2="542.001">
+	<stop  offset="0" style="stop-color:#4AC0B4"/>
+	<stop  offset="1" style="stop-color:#7CC797;stop-opacity:0.2"/>
+</linearGradient>
+<path class="st0" d="M1536,609.1v4.1h-13.5c-18.2,4.9-37.3,7.5-57,7.5s-38.9-2.6-57-7.5H976.3c-4.9,0.3-9.9,0.5-14.9,0.5
+	s-10-0.2-14.9-0.5H941v-0.4c-111.5-10.3-198.8-104.2-198.8-218.4c0-121.2,98.2-219.4,219.3-219.4c1.7,0,3.3,0,5,0.1
+	C986.9,75.1,1075.3,0,1181.3,0c111.9,0,204.3,83.9,217.6,192.3c21-6.7,43.4-10.3,66.6-10.3c121.1,0,219.3,98.2,219.3,219.4
+	C1684.8,497.8,1622.5,579.8,1536,609.1z"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="183.2" y1="327.6" x2="183.2" y2="-59.9" gradientTransform="matrix(1 0 0 -1 0 488)">
+	<stop  offset="0" style="stop-color:#4AC0B4"/>
+	<stop  offset="1" style="stop-color:#7CC797;stop-opacity:0.2"/>
+</linearGradient>
+<path class="st1" d="M348,547.9H-84V354.5h80.6c-0.2-3.9-0.4-7.8-0.4-11.8c0-100.7,81.6-182.3,182.3-182.3S360.8,242,360.8,342.7
+	c0,0.2,0,0.3,0,0.5c50.6,6.5,89.6,49.6,89.6,101.9C450.4,501.7,404.6,547.7,348,547.9L348,547.9z"/>
+</svg>

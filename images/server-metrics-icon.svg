@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 40.5 33.1" style="enable-background:new 0 0 40.5 33.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000333;stroke-width:1.5;stroke-miterlimit:10;}
+	.st1{fill:#83B633;}
+	.st2{fill:none;stroke:#000333;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<path id="Rectangle_12" class="st0" d="M3.9,20.3h29.7c1,0,1.8,1,1.8,2.2v4.1c0,1.2-0.8,2.2-1.8,2.2H3.9c-1,0-1.8-1-1.8-2.2v-4.1
+	C2.1,21.3,2.9,20.3,3.9,20.3z"/>
+<path id="Rectangle_13" class="st0" d="M3.9,3.3h29.7c1,0,1.8,1,1.8,2.2v4.1c0,1.2-0.8,2.2-1.8,2.2H3.9c-1,0-1.8-1-1.8-2.2V5.5
+	C2.1,4.3,2.9,3.3,3.9,3.3z"/>
+<path id="Rectangle_14" class="st0" d="M3.9,11.9h29.7c1,0,1.8,1,1.8,2.2v4.1c0,1.2-0.8,2.2-1.8,2.2H3.9c-1,0-1.8-1-1.8-2.2v-4.1
+	C2.1,12.8,2.9,11.9,3.9,11.9z"/>
+<circle id="Ellipse_2" class="st1" cx="7.4" cy="7.7" r="1"/>
+<circle id="Ellipse_3" class="st1" cx="7.3" cy="15.5" r="1"/>
+<circle id="Ellipse_4" class="st1" cx="7.4" cy="24.3" r="1"/>
+<circle id="Ellipse_5" class="st1" cx="10.8" cy="7.7" r="1"/>
+<circle id="Ellipse_6" class="st1" cx="10.6" cy="15.5" r="1"/>
+<circle id="Ellipse_7" class="st1" cx="10.8" cy="24.3" r="1"/>
+<line id="Line_3" class="st2" x1="20.4" y1="15.5" x2="31.9" y2="15.5"/>
+<line id="Line_4" class="st2" x1="20.5" y1="7.7" x2="31.9" y2="7.7"/>
+<line id="Line_5" class="st2" x1="20.5" y1="24.3" x2="31.9" y2="24.3"/>
+<circle class="st1" cx="31.8" cy="20.2" r="0.9"/>
+<title>apm-icon</title>
+<circle class="st1" cx="29.1" cy="25.2" r="0.9"/>
+<circle class="st1" cx="34.5" cy="25.2" r="0.9"/>
+<circle class="st1" cx="31.8" cy="24.3" r="8.2"/>
+<polyline class="st3" points="27.2,28.3 30.7,23.4 33,27.4 35.7,21.7 "/>
+<polyline class="st3" points="33.7,21.4 36.3,20.6 37.2,22.9 "/>
+</svg>
